@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "sales_function_app": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7044",
+      "launchBrowser": false
+    }
+  }
+}
